@@ -1,6 +1,6 @@
 # AnyEasier 插件注册表
 
-本仓库是 AnyEasier 的中央插件注册表（主仓库内的 `registry/` 为模板，发布时复制到独立仓库）。
+本仓库是 AnyEasier 的中央插件注册表。
 上架流程：
 
 1. Fork 本仓库
