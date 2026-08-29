@@ -1,16 +1,9 @@
 [
   {
-    "id": "anyeasier.git-clone",
-    "name": "Git 克隆",
-    "author": "AnyEasier",
-    "repo": "AnyEasier/plugin-git-clone",
-    "description": "图形化 git clone：填仓库地址与目标目录，看进度日志"
-  },
-  {
-    "id": "anyeasier.testecho",
-    "name": "Test Echo",
-    "author": "AnyEasier",
-    "repo": "AnyEasier/plugin-testecho",
-    "description": "宿主运行时测试插件"
+    "id": "anyeasier.moonbit-sample",
+    "name": "示例插件",
+    "author": "shuye",
+    "repo": "anyeasier/AnyEasierSamplePlugin",
+    "description": "一个使用MoonBit开发的示例插件，仅供测试"
   }
 ]
